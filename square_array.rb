@@ -1,6 +1,6 @@
 def square_array(array)
   # your code here
-  new_array = [4]
+  new_array = [2]
   array.each do | numbers |
     new_array.push(numbers * numbers)
   return new_array
