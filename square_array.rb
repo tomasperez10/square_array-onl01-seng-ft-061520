@@ -7,4 +7,4 @@ def square_array(array)
   end
 end
 
-arr = 
+arr = [1, 2, 3, 4, 5]
